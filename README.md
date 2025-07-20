@@ -15,5 +15,10 @@ El objetivo principal fue aprender y poner en práctica conceptos de programaci�
 - Detección de jaque simple (opcional).
 - Código modular y estructurado para facilitar su comprensión.
 
-## 📦 Estructura del Proyecto
+## 🧠 Conceptos aplicados
 
+- Programación orientada a objetos (herencia, polimorfismo).
+- Manipulación de arreglos bidimensionales.
+- Validaciones condicionales y manejo de errores.
+- Interacción con el usuario mediante la entrada estándar.
+- Buenas prácticas de estructuración en proyectos C++.
